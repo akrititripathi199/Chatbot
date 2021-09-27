@@ -41,8 +41,3 @@ class Font:
 
         reverse = text[::-1]
         print(f"Reverse: {reverse}")
-
-# function to use in start.py aka main menu
-
-
-# Font().reverse()
