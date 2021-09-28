@@ -61,7 +61,7 @@ def MenuContent():
     4. Exit.
 
     Note: My Ratelimit = 1 Request / Second
-
+    Credit: EitoZX
     """)
 
 
