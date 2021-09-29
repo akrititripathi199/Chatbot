@@ -1,14 +1,25 @@
 # **Chatbot: Python**
 
 A simple chatbot that I made for school Project.\
-*Tho this chatbot is dumb sometimes, but it's not too bad lol*.\
-[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](http://python.org/)
+*Tho this chatbot is dumb sometimes, but it's not too bad lol*.
 
-# How to Use?
-Fork this repository & run this code. Just start talking (texting) with bot. and to shut it down, just text `bye`. And bot will shut down.
-
+# Check it Out!
 ![Chatbot By EitoZX](https://i.imgur.com/50KjNr7.png)
 
+# FAQ
+
+## How to use? 
+Get the `.exe` file from **[latest release](https://github.com/EitoZX/Chatbot/releases)** & run it.
+
+Just remember that you've to select the NUMBER (integer) corresponding to the option that you want to use. Easy!
+
+When using chatbot, just say(text) `bye` & you will return to the main menu
+
+## How to run instance of this code?
+
+Fork this repository & run this code. 
+
 -----
-Feel free to submit issues if there is any.\
+⭐ Please star if you like the project :)\
+And feel free to submit issues if there is any.\
 Thank you.
