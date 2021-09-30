@@ -19,7 +19,9 @@ When using chatbot, just say(text) `bye` & you will return to the main menu
 
 Fork this repository & run this code. 
 
+
 -----
+#### _Note: This Repo is for Educational Purpose Only._
 ⭐ Please star if you like the project :)\
 And feel free to submit issues if there is any.\
 Thank you.
